@@ -2,6 +2,9 @@
 **smy5152/smy5152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> Vistor Number 
 ![HitCount](http://hits.dwyl.com/smy5152/smy5152.svg)
+| Stats and Languages |
+| :---: |
+| ![Shabbir's github stats](https://github-readme-stats.vercel.app/api?username=smy5152&theme=solarized-light&show_icons=true&text_color=black) ![Shabbir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smy5152&theme=dark) |
 
 #### Who am I? I am Spider-Man. Well, not really but its a good dialogue...
 #### I am Shabbir from India, been living in Egypt since 2010 & enjoying my life here. I have traveled to Germany, East Africa, and a few asian countries. I currently pursue a _Full Stack Software Developer_ course at [Microverse](http://bit.ly/fullstackdev-free) and look forward to continue living a Nomad life working remotely and traveling across the world.
@@ -23,11 +26,8 @@
 - 😄 Pronouns: _He/Him_
 - ⚡ Fun fact: _When Life Stinks! Go take a bath and get back to Work!_
 ##### Thanks & Dont be a Stranger
+<a href="https://www.linkedin.com/in/shabbirmyamani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/smy_misr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.facebook.com/smymisr" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://www.twitter.com/smymisr" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/smymisr?style=social"></a> <a href="https://github.com/smy5152" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/smy5152?style=social"></a>
 
-
-| Let's Connect |  |  |
-| :---: | :---: | :---: |
-| <a href="https://www.linkedin.com/in/shabbirmyamani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/smy_misr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.facebook.com/smymisr" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://www.twitter.com/smymisr" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/smymisr?style=social"></a> <a href="https://github.com/smy5152" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/smy5152?style=social"></a> | ![Shabbir's github stats](https://github-readme-stats.vercel.app/api?username=smy5152&theme=solarized-light&show_icons=true&text_color=black) | ![Shabbir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smy5152&theme=dark)|
 
 | Affiliates| Description |
 | :--- | :--- |
