@@ -5,7 +5,7 @@
 
 ||||
 | ----- |---|---|
-| ![Shabbir's github stats](https://github-readme-stats.vercel.app/api?username=smy5152&theme=solarized-light&show_icons=true&text_color=black)|<span style="background:black;"></span>|&|![Shabbir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smy5152&theme=dark)|
+| ![Shabbir's github stats](https://github-readme-stats.vercel.app/api?username=smy5152&theme=solarized-light&show_icons=true&text_color=black)|<span style="background:purple; color:white">&</span>|![Shabbir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smy5152&theme=dark)|
 
 | CAREER |
 |---|
