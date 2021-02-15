@@ -37,5 +37,3 @@
 |`*` <a href="https://bit.ly/fullstackdev-free" target=_blank alt="Full Stack Developer">Become A Full Stack Developer</a>|Free until you get hired and make $1000/- a month|
 |`*` <a href="https://bit.ly/english-tutors-experts" target=_blank alt="English Fluency">English Tutoring from Native Speakers</a>|Learn Fluent English. 30% Discount Coupon|
 
-####PROUD MEMBER OF: ONPASSIVE.
-<a href="https://bit.ly/ONPASSIVEFOUNDER" target="_blank"><img style="width:100px; height:20px;" src="https://gofounders.net/assests/meterial/assets/images/logo.png" alt="https://bit.ly/ONPASSIVEFOUNDER"></a>
