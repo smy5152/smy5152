@@ -4,21 +4,21 @@
 ![HitCount](http://hits.dwyl.com/smy5152/smy5152.svg)
 
 | Stats and Languages |
-| :---: | :---: |
-| ![Shabbir's github stats](https://github-readme-stats.vercel.app/api?username=smy5152&theme=solarized-light&show_icons=true&text_color=black) ![Shabbir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smy5152&theme=dark) |
+| ------ |---|
+| ![Shabbir's github stats](https://github-readme-stats.vercel.app/api?username=smy5152&theme=solarized-light&show_icons=true&text_color=black)|![Shabbir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smy5152&theme=dark) |
 
 #### Who am I? I am Spider-Man. Well, not really but its a good dialogue...
 #### I am Shabbir from India, been living in Egypt since 2010 & enjoying my life here. I have traveled to Germany, East Africa, and a few asian countries. I currently pursue a _Full Stack Software Developer_ course at [Microverse](http://bit.ly/fullstackdev-free) and look forward to continue living a Nomad life working remotely and traveling across the world.
 
-|### Career | ## 😂 Here is a random joke that'll make you laugh!|
-|:--- | :---:|
-|
+| #ABOUT ME:|
+|------------ | ---|
+|### Career
 - I have 10+ years of experience in numerous industries:
 - Software Development `2005 to 2010`
 - Business Analysis & Requirements Engineer `2010 to 2014`
 - Agile Product Owner / Product Manager / Digital Marketing Specialist / eCommerce `2014 to Present`
 - Student for Life
-- Full Stack Dev Student @[Microverse](http://bit.ly/fullstackdev-free) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+- Full Stack Dev Student @[Microverse](http://bit.ly/fullstackdev-free)|## 😂 Here is a random joke that'll make you laugh! ![Jokes Card](https://readme-jokes.vercel.app/api)|
 
 ### Expectations VS Reality
 <img src="Webp.net-gifmaker.gif" alt="Welcome!" width="300"/>
