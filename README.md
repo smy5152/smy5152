@@ -23,7 +23,7 @@
 
 |**Know me Better**|**Dont be a Stranger**|
 |:---:|:---:|
-|🔭 I’m currently working on graduating as a [*Full Stack Developer - @ Microverse*](http://bit.ly/fullstackdev-free)|*Thanks For Reading So Far*|
+|🔭 I’m currently working on getting hired as a *Remote Full Stack Developer*|*Thanks For Reading So Far*|
 |🌱 I’m currently learning... _HTML5, CSS3, JS, Bootstrap, Ruby, Rails, SQL, React, DSA, Soft Skills_|<a href="https://github.com/smy5152" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/smy5152?style=social"></a>|
 |🤔 I’m looking for help with ... _Finding a Job in UK/USA/Canada/EU_|<a href="https://www.linkedin.com/in/shabbirmyamani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>|
 |💬 Ask me about _[Smycrosoft Inc,.](https://Smycrosoft.com)_ |<a href="https://www.twitter.com/smymisr" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/smymisr?style=social"></a>|
