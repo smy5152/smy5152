@@ -10,11 +10,12 @@
 | CAREER |
 |---|
 |**I have spent *15+ years* in numerous industries enjoying every new company and profile...**|
-|`2003 to 2010` *FUll Stack Software Development* |
+|`2003 to 2010` *Full Stack Software Development* |
 |`2010 to 2014` *Business Analysis & Requirements Engineer* |
-|`2014 to Present` *Agile Product Owner, Product Manager, Digital Marketing Specialist, eCommerce*|
 |`2012 to Present` *International Trade & Business Development in Import/Export Industry*|
-|**Student for Life:** *Full Stack Dev Student [@Microverse](http://bit.ly/fullstackdev-free)*|
+|`2014 to 2022` *Agile Product Owner, Product Manager, Digital Marketing Specialist, eCommerce*|
+|`2022 to Present` *Sr. Project Manager, Epicor ERP Implementation Consultant* |
+|**Student for Life:** *Web3/Crypto/FLutter*|
 
 |*Expectations VS Reality*|😂*A random joke that'll make you laugh!!*|
 |---------|---|
@@ -34,6 +35,5 @@
 | **Affiliates**| **Description** |
 | :------ | :---: |
 |`*` <a href="https://bit.ly/smyhost" target=_blank alt="SSD Unlimited Hosting">SSD Unlimited Hosting</a>|Only $2/month Hosting, SSD, Unlimited.|
-|`*` <a href="https://bit.ly/fullstackdev-free" target=_blank alt="Full Stack Developer">Become A Full Stack Developer</a>|Free until you get hired and make $1000/- a month|
 |`*` <a href="https://bit.ly/english-tutors-experts" target=_blank alt="English Fluency">English Tutoring from Native Speakers</a>|Learn Fluent English. 30% Discount Coupon|
 
