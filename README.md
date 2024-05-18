@@ -15,8 +15,8 @@
 |`2012 to Present` *International Trade & Business Development in Import/Export Industry*|
 |`2014 to 2022` *Agile Product Owner, Product Manager, Digital Marketing Specialist, eCommerce*|
 |`2022 to Present` *Sr. Project Manager, Epicor ERP Implementation Consultant* |
-|**PMP (PMI)** *PMI Certified Project Manager*|
-|**Student for Life:** *Web3/Crypto/FLutter*|
+|`2023 to 2026` **PMP (PMI)** *PMI Certified Project Manager*|
+|**Student for Life:** *Web3/Crypto/Flutter*|
 
 |*Expectations VS Reality*|😂*A random joke that'll make you laugh!!*|
 |---------|---|
@@ -25,11 +25,11 @@
 
 |**Know me Better**|**Dont be a Stranger**|
 |:---:|:---:|
-|🔭 I’m currently working on getting hired as a *Remote Full Stack Developer*|*Thanks For Reading So Far*|
-|🌱 I’m currently learning... _HTML5, CSS3, JS, Bootstrap, Ruby, Rails, SQL, React, DSA, Soft Skills_|<a href="https://github.com/smy5152" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/smy5152?style=social"></a>|
+|🔭 I’m currently working on getting skills in *ICP* *Blockchain* | *Thanks For Reading So Far*|
+|🌱 I’m currently learning... _React, Rust, SQL, Solidity, Ethereum, Soft Skills_|<a href="https://github.com/smy5152" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/smy5152?style=social"></a>|
 |🤔 I’m looking for help with ... _Finding a Job in UK/USA/Canada/EU_| |
 |💬 Ask me about _[Smycrosoft Inc,.](https://Smycrosoft.com)_ | |
-|📫 How can I help you: _I will build you free eCommerce / Personal / Professional Website if you purchase $2 Hosting_||
+|📫 How can I help you: _I will build you a free eCommerce / Portfolio / Professional Website if you purchase my $2 Hosting_||
 |😄 Pronouns: _He/Him_| |
 ⚡ Fun fact: _When Life Stinks! Go take a bath and get back to Work!_| |
 
